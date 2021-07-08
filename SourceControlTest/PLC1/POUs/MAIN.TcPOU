@@ -4,6 +4,7 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	nCounter : INT;
+	nValue	: DINT;
 END_VAR
 ]]></Declaration>
     <Implementation>
